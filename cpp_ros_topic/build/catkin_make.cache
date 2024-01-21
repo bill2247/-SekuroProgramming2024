@@ -1,0 +1,2 @@
+ros_topic
+-DCATKIN_DEVEL_PREFIX=/home/sabil2347/ros_topic_latihan/devel -DCMAKE_INSTALL_PREFIX=/home/sabil2347/ros_topic_latihan/install -G Unix Makefiles

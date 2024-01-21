@@ -1,0 +1,8 @@
+prefix=/home/sabil2347/python_ros_topic/install
+
+Name: ros_topic
+Description: Description of ros_topic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

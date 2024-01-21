@@ -1,0 +1,2 @@
+tutorials
+-DCATKIN_DEVEL_PREFIX=/home/sabil2347/python_ros_topic/devel -DCMAKE_INSTALL_PREFIX=/home/sabil2347/python_ros_topic/install -G Unix Makefiles
